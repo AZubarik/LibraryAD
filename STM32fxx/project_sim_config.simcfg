@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProjectConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Config />
+  <Documents>
+    <DocumentConfig>
+      <Name>Sheet1.SchDoc</Name>
+      <Id>YKFPLQKX</Id>
+      <Results />
+    </DocumentConfig>
+  </Documents>
+  <Results />
+</ProjectConfig>
