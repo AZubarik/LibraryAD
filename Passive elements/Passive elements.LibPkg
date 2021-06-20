@@ -142,7 +142,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JDVRUSIF
 
 [Document7]
-DocumentPath=Capacitor SMD.PcbLib
+DocumentPath=Capacitor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
