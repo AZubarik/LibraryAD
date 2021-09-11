@@ -125,7 +125,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BAIQFQLD
 
 [Document6]
-DocumentPath=Resistor.PcbLib
+DocumentPath=Passive PCB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -142,23 +142,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JDVRUSIF
 
 [Document7]
-DocumentPath=Capacitor.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NTQRUSUR
-
-[Document8]
 DocumentPath=Chokes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUPMMORN
 
-[Document9]
+[Document8]
 DocumentPath=Fuse PCB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWUPKRBK
 
-[Document10]
+[Document9]
 DocumentPath=ElementsPCB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
